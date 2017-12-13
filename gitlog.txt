@@ -1,0 +1,11 @@
+commit 5c6ea6ec5b61262839aaaa8a80341d5dfd5373a5
+Author: manberger <manberger@gmx.net>
+Date:   Wed Dec 13 13:33:53 2017 +0100
+
+    added a gitignore file
+
+commit e35911988fe855e8549f59cdc17477cf1778baf7
+Author: manberger <manberger@gmx.net>
+Date:   Tue Dec 12 12:04:31 2017 +0100
+
+    added readme.txt
