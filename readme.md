@@ -1,6 +1,6 @@
-# This is a large heading
+# This is a different heading
 
-## This is a smaller heading
+## A heading for the master branch
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet’s pen,
